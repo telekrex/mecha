@@ -1,0 +1,90 @@
+Suit vs Vehicle distiction - I think a vehicle is ultimately more
+worth focusing on as it's size could allow a lot more components,
+and/or expansion of components. And probably more exciting. However,
+a suit may be required; perhaps think of it like a racecar driver.
+They pilot a vehicle which is physically doing more work than the
+pilot, but being inside the vehicle = risk of flammable/debris/danger;
+so you'll want something to protect the pilot. Doesn't have to be
+iron man armor, but something like a racing driver suit.
+
+'Vehicle' Components;
+
+    Fire Suit. A fire resistant suit meant to protect the pilot from flame,
+    debris, and harmful substances, in the event of destruction.
+
+    Eye Protection. A pair of protective glasses with lights, to protect
+    the pilot's eyes from damage or debris in the event of destruction,
+    or during maintenance or construction of the vehicle.
+
+    Frame. A structural frame that supports the installation of all components.
+    Made out of ???
+
+    Panels. Surface that covers some areas of the frame to provide protection
+    from wind, weather, debris, etc. Made out of ???
+
+    Computer. A gaming motherboard, CPU, and RAM, running Arch+Enlightenment,
+    where the I/O components directly interface with the kernel (if possible),
+    with its own power supply.
+
+    Monitor(s). Video monitor(s) to display the computer output, and thus any
+    output from other components. Will need their own power supply.
+
+    Keyboard and mouse. A regular gaming keyboard and mouse to drive input.
+
+    Software...
+        For software, I want to create "driver" modules; or "wrapper"s.
+        smaller modular programs that translate a human readable
+        desire into a machine readable input.
+        - Light driver
+        - Motor driver
+        - Thrust driver
+        - Live Map: A program that checks all components are operational
+
+    Camera(s). Video cameras placed at key areas lacking physical visibility
+    on the outside of the vehicle, to provide visibility on the monitors.
+    May need their own power supply.
+
+    Radio COMS. A CB or HAM radio, antennae, transmitter/receiver, and mic
+    for communicating over AM/FM for a variety of purposes.
+    May need their own power supply.
+
+    Headlights/foglights. One or more bright lights for seeing at a distance
+    or into fog or heavy weather, controlled by software. May need their own
+    power supply.
+
+    Hazard light. One or more bright, colored, rotating light for signalling
+    "emergency" to anyone nearby. May need its own power supply.
+
+    Arms...
+        Claw?
+        Lights?
+        Torch/thrusters?
+
+    Legs...
+        sliding goat leg, like a handgun chamber
+        spring loaded, for inverse kinematic actuation.
+        Biped inspired legs but with an extrusion, like
+        a half-leg, sprouting forward from the middle of the shin,
+        that plants more points of contact on the ground for stability.
+        Feet have wide contact patch with the ground and should be
+        probably the heaviest part of the leg, or even the whole vehicle
+        Tracks?/Motors?
+    
+    Shoulder/clav thrusters
+        For.. ?
+        For thrusters - what if there was a mechanism simlar
+        to the chamber of a gun/magazine, that when one solid
+        rocket motor was all done, it ejected, and another
+        motor takes its place. Like a magazine for rocket motors.
+        Thrusters may not be even necessary for jumping but maybe
+        more for reducing stress of a fall/landing.
+
+    Interior work lights. Small battery powered LED lights for the interior of the
+    vehicle, to light up the area if needed. 2-3 of these should be enough.
+
+
+Piloting;
+
+    Pilot should be physically fit and sharp.
+
+    Pilot should have an acute & active mind.

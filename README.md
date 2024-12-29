@@ -1,4 +1,3 @@
-# mecha
-buildin a mech/a/
+buildin a mech/a/ [open source mech software/kit]
 
-for real. workshop hosted here.
+for neighborhood municipal, weather, labor, emergency, or defense efforts.
